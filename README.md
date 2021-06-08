@@ -1,0 +1,2 @@
+# ruoyi-docker
+若依快速开发平台增加docker支持，可以自动完成mvn打包和jar包运行，因为写前端对接api的时候不想配置后台java运行环境，于是想借助docker让后端环境免于配置部署
